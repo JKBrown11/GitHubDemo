@@ -1,0 +1,2 @@
+#Whatever you write here in gitignore file, will be ignored by git. Will not be tracked. 
+log.txt 
