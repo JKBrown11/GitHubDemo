@@ -1,1 +1,4 @@
 Git Demo
+Update as of Oct 22 2023
+I have created 2 git repositories and synced them with my gitHub. 
+I have also cloned a repository from Microsoft that is for beginners in python. 
